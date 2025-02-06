@@ -13,7 +13,7 @@ Seeking a programmer position where I can apply my skills in software developmen
 
 ## Education  
 
-### Moscow State Technical University (MSTU) named after N.E. Bauman  
+### Moscow State Technical University (BMSTU) named N.E. Bauman  
 **Engineer**  
 2024 - 2026  
 
@@ -33,14 +33,7 @@ August 10-18, 2024
 **Project Activities**  
 2024 - 2024  
 
-- Development of applications in Python and C.  
-- Creation of web applications using the Flask framework.  
-- Participation in the design and implementation of microservice architecture.  
-- Work with multithreaded and iterative tasks.  
-- Implementation of object-oriented programming (OOP) and structured programming principles.  
-- Development of multi-file projects, including work with matrices.  
-- Creation of utilities for sorting JSON and XML files, ensuring efficient data management.  
-- Use of GitHub for version control and collaborative development.  
+
 
 ### Data Analyst / Machine Learning Developer  
 **Center for Pedagogical Excellence (CPM) | Moscow | August 10-18, 2024**  
@@ -51,6 +44,16 @@ August 10-18, 2024
 ---
 
 ## Skills  
+
+###Base
+- Development of applications in Python and C.  
+- Creation of web applications using the Flask framework.  
+- Participation in the design and implementation of microservice architecture.  
+- Work with multithreaded and iterative tasks.  
+- Implementation of object-oriented programming (OOP) and structured programming principles.  
+- Development of multi-file projects, including work with matrices.  
+- Creation of utilities for sorting JSON and XML files, ensuring efficient data management.  
+- Use of GitHub for version control and collaborative development.  
 
 ### Programming Languages:  
 - **Python:** Experience in developing web applications using the Flask framework, creating scripts for task automation, and working with data analysis libraries (e.g., Pandas, NumPy). Knowledge of OOP and functional programming principles.  
@@ -77,7 +80,3 @@ August 10-18, 2024
 - Participation in open-source projects on GitHub.  
 - Willingness to learn and master new technologies.  
 
----
-
-## References  
-Available upon request.  
