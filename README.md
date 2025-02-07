@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Objective  
 Seeking a programmer position where I can apply my skills in software development, data analysis, and machine learning.
 
