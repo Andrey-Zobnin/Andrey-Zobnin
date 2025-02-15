@@ -125,11 +125,4 @@ August 10-18, 2024
 
 ---
 
-### 🎉 Awards and Achievements  
-
-[![MasterHead](your-image-link)](your-github-link)  
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andrey-Zobnin&repo=your-repo-name)](https://github.com/Andrey-Zobnin/your-repo-name)
-
-
 ---
