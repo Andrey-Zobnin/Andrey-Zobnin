@@ -97,6 +97,17 @@ August 10-18, 2024
 
 [![Pull Requests](https://img.shields.io/github/issues-pr/Andrey-Zobnin?style=flat-square)](https://github.com/Andrey-Zobnin?tab=pulls)  
 
+---
+
+### 🔥 GitHub Streak Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Andrey-Zobnin&theme=dark)](https://git.io/streak-stats)
+
+---
+### 📈 GitHub Activity Graph:
+
+![Andrey's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Andrey-Zobnin&theme=react-dark)
+
 
 ---
 
@@ -124,5 +135,7 @@ August 10-18, 2024
 
 
 ---
+### 🔥🔥🔥 Qoute
 
+![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 ---
