@@ -45,7 +45,7 @@ August 10-18, 2024
 ---
 
 ## Skills  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AParovyshnaya&theme=cobalt&show_icons=true)
+![Anurag's GitHub stats](https://github.com/Andrey-Zobnin)
 ###Base
 - Development of applications in Python and C.  
 - Creation of web applications using the Flask framework.  
