@@ -1,5 +1,5 @@
 # Andrey Zobnin
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AParovyshnaya&theme=cobalt&show_icons=true)
+
 **Email:** andy.zobnin@gmail.com  
 **GitHub:** [https://github.com/Andrey-Zobnin](https://github.com/Andrey-Zobnin)  
 **Telegram:** [@andypyjson](https://t.me/andypyjson)  
@@ -45,7 +45,7 @@ August 10-18, 2024
 ---
 
 ## Skills  
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AParovyshnaya&theme=cobalt&show_icons=true)
 ###Base
 - Development of applications in Python and C.  
 - Creation of web applications using the Flask framework.  
@@ -54,9 +54,11 @@ August 10-18, 2024
 - Implementation of object-oriented programming (OOP) and structured programming principles.  
 - Development of multi-file projects, including work with matrices.  
 - Creation of utilities for sorting JSON and XML files, ensuring efficient data management.  
-- Use of GitHub for version control and collaborative development.  
+- Use of GitHub for version control and collaborative development.
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
-### Programming Languages:  
+### Programming Languages: 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 - **Python:** Experience in developing web applications using the Flask framework, creating scripts for task automation, and working with data analysis libraries (e.g., Pandas, NumPy). Knowledge of OOP and functional programming principles.  
 - **C:** Experience in software development using C, including working with pointers, dynamic memory, and structured programming. Ability to develop efficient algorithms and data structures.  
 
