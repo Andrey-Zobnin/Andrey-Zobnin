@@ -1,18 +1,20 @@
 # Andrey Zobnin
 
-**Email:** andy.zobnin@gmail.com  
-**GitHub:** [https://github.com/Andrey-Zobnin](https://github.com/Andrey-Zobnin)  
+**Email:** [andy.zobnin@gmail.com](mailto:andy.zobnin@gmail.com)  
+
+**GitHub:** [Andrey-Zobnin](https://github.com/Andrey-Zobnin)  
+
 **Telegram:** [@andypyjson](https://t.me/andypyjson)  
 
 ---
 
 
-## Objective  
+## 👨‍💻 About Me 
 Seeking a programmer position where I can apply my skills in software development, data analysis, and machine learning.
 
 ---
 
-## Education  
+## 🎓 Education
 
 ### Moscow State Technical University (BMSTU) named N.E. Bauman  
 **Engineer**  
@@ -44,9 +46,7 @@ August 10-18, 2024
 
 ---
 
-## Skills  
-![Anurag's GitHub stats](https://github.com/Andrey-Zobnin)
-###Base
+## 🛠️ Skills  
 - Development of applications in Python and C.  
 - Creation of web applications using the Flask framework.  
 - Participation in the design and implementation of microservice architecture.  
@@ -55,10 +55,8 @@ August 10-18, 2024
 - Development of multi-file projects, including work with matrices.  
 - Creation of utilities for sorting JSON and XML files, ensuring efficient data management.  
 - Use of GitHub for version control and collaborative development.
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Programming Languages: 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 - **Python:** Experience in developing web applications using the Flask framework, creating scripts for task automation, and working with data analysis libraries (e.g., Pandas, NumPy). Knowledge of OOP and functional programming principles.  
 - **C:** Experience in software development using C, including working with pointers, dynamic memory, and structured programming. Ability to develop efficient algorithms and data structures.  
 
@@ -81,5 +79,57 @@ August 10-18, 2024
 ## Additional Information  
 
 - Participation in open-source projects on GitHub.  
-- Willingness to learn and master new technologies.  
+- Willingness to learn and master new technologies.
 
+---
+
+## 📊 GitHub Statistics  
+
+![Andrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrey-Zobnin&theme=cobalt&show_icons=true)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey-Zobnin&layout=compact)](https://github.com/Andrey-Zobnin)
+
+[![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Andrey-Zobnin&theme=cobalt)](https://git.io/streak-stats)  
+
+[![Repo Count](https://badges.pufler.dev/repos/Andrey-Zobnin)](https://github.com/Andrey-Zobnin?tab=repositories)  
+
+[![Issues](https://img.shields.io/github/issues/Andrey-Zobnin?style=flat-square)](https://github.com/Andrey-Zobnin?tab=issues)  
+
+[![Pull Requests](https://img.shields.io/github/issues-pr/Andrey-Zobnin?style=flat-square)](https://github.com/Andrey-Zobnin?tab=pulls)  
+
+
+---
+
+
+## 🌟 GitHub Contributions  
+
+- **Open Source Projects:** Actively contribute to various open-source projects, enhancing my skills and collaborating with other developers.  
+
+- **Personal Projects:** Developed several personal projects, including:
+
+  - **[Labworks BMSTU](https://github.com/Andrey-Zobnin/fmsh_lab):** Разные мои лабораторные работы в BMSTU university
+  - **[ProjectsOfJson](https://github.com/Andrey-Zobnin/ProjectOfJson):** Утилита для сортировки Json файлов, проект имеет перспективы для облачного решения
+
+  - **[MLBanksStat](https://github.com/Andrey-Zobnin/MLbanks):** Задача проекта обучить модель машинного обучения для сбора и анализа тональностми отзывов на банки
+
+
+---
+
+
+## 🌐 Contact Me  
+
+- **Email:** [andy.zobnin@gmail.com](mailto:andy.zobnin@gmail.com)  
+
+- **Telegram:** [@andypyjson](https://t.me/andypyjson)  
+
+
+---
+
+### 🎉 Awards and Achievements  
+
+[![MasterHead](your-image-link)](your-github-link)  
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andrey-Zobnin&repo=your-repo-name)](https://github.com/Andrey-Zobnin/your-repo-name)
+
+
+---
