@@ -141,7 +141,7 @@ August 10-18, 2024
 
 
 ---
-### 🔥🔥🔥 Qoute
+### 🔥🔥🔥 Quote
 
 ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 ---
