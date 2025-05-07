@@ -11,7 +11,93 @@
 
 
 ## 👨‍💻 About Me 
-Seeking a programmer position where I can apply my skills in software development, data analysis, and machine learning.
+I like apply my skills in software development, data analysis, backend development, architecturs.
+
+---
+
+# 🛠️ Technical Skills
+
+## Programming Languages
+
+### **Python**:
+- Web apps (Flask), automation, data analysis (Pandas, NumPy).  
+- OOP, functional programming.  
+
+### **C**:
+- Pointers, dynamic memory, algorithms, data structures.  
+- Structured programming.  
+
+### **Go (Basic)**:
+- REST API development.  
+- gRPC (basic understanding).  
+
+### **Java (Basic)**:
+- Core syntax, OOP principles.  
+
+## Web Development
+- Flask (Python), REST APIs (Go).  
+
+## Software Architecture
+- Microservices, gRPC (Go).  
+
+## Programming Paradigms
+- OOP, structured programming, concurrency (Go).  
+
+## Tools & Technologies
+- Git/GitHub, VSCode, PyCharm, Code::Blocks, Blender.  
+
+## Data Handling
+- JSON/XML parsing, sorting utilities.  
+
+---
+
+## Additional Information  
+
+- Participation in open-source projects on GitHub.  
+- Willingness to learn and master new technologies.
+
+---
+
+
+## 🌟 GitHub Contributions  
+
+- **Open Source Projects:** Actively contribute to various open-source projects, enhancing my skills and collaborating with other developers.  
+
+- **Personal Projects:** Developed several personal projects, including:
+
+  - **[Labworks BMSTU](https://github.com/Andrey-Zobnin/fmsh_lab):** Разные мои лабораторные работы в BMSTU university
+  - **[ProjectsOfJson](https://github.com/Andrey-Zobnin/ProjectOfJson):** Утилита для сортировки Json файлов, проект имеет перспективы для облачного решения
+
+  - **[MLBanksStat](https://github.com/Andrey-Zobnin/MLbanks):** Задача проекта обучить модель машинного обучения для сбора и анализа тональностми отзывов на банки
+
+
+
+---
+
+## 📊 GitHub Statistics  
+
+![Andrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrey-Zobnin&theme=cobalt&show_icons=true)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey-Zobnin&layout=compact)](https://github.com/Andrey-Zobnin)
+
+[![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Andrey-Zobnin&theme=cobalt)](https://git.io/streak-stats)  
+
+[![Repo Count](https://badges.pufler.dev/repos/Andrey-Zobnin)](https://github.com/Andrey-Zobnin?tab=repositories)  
+
+[![Issues](https://img.shields.io/github/issues/Andrey-Zobnin?style=flat-square)](https://github.com/Andrey-Zobnin?tab=issues)  
+
+[![Pull Requests](https://img.shields.io/github/issues-pr/Andrey-Zobnin?style=flat-square)](https://github.com/Andrey-Zobnin?tab=pulls)  
+
+---
+
+### 🔥 GitHub Streak Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Andrey-Zobnin&theme=dark)](https://git.io/streak-stats)
+
+---
+### 📈 GitHub Activity Graph:
+
+![Andrey's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Andrey-Zobnin&theme=react-dark)
 
 ---
 
@@ -46,87 +132,6 @@ August 10-18, 2024
 - Creating Telegram bots for process automation and user interaction.  
 
 ---
-
-## 🛠️ Skills  
-- Development of applications in Python and C.  
-- Creation of web applications using the Flask framework.  
-- Participation in the design and implementation of microservice architecture.  
-- Work with multithreaded and iterative tasks.  
-- Implementation of object-oriented programming (OOP) and structured programming principles.  
-- Development of multi-file projects, including work with matrices.  
-- Creation of utilities for sorting JSON and XML files, ensuring efficient data management.  
-- Use of GitHub for version control and collaborative development.
-
-### Programming Languages: 
-- **Python:** Experience in developing web applications using the Flask framework, creating scripts for task automation, and working with data analysis libraries (e.g., Pandas, NumPy). Knowledge of OOP and functional programming principles.  
-- **C:** Experience in software development using C, including working with pointers, dynamic memory, and structured programming. Ability to develop efficient algorithms and data structures.  
-
-### Architecture:  
-- Microservices  
-
-### Programming:  
-- OOP, Structured Programming  
-
-### Tools & Technologies:  
-- GitHub, VSCode, PyCharm, Code::Blocks, Blender  
-
-### Data Analysis & Machine Learning  
-
-### Data Handling:  
-- JSON, XML  
-
----
-
-## Additional Information  
-
-- Participation in open-source projects on GitHub.  
-- Willingness to learn and master new technologies.
-
----
-
-## 📊 GitHub Statistics  
-
-![Andrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrey-Zobnin&theme=cobalt&show_icons=true)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey-Zobnin&layout=compact)](https://github.com/Andrey-Zobnin)
-
-[![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Andrey-Zobnin&theme=cobalt)](https://git.io/streak-stats)  
-
-[![Repo Count](https://badges.pufler.dev/repos/Andrey-Zobnin)](https://github.com/Andrey-Zobnin?tab=repositories)  
-
-[![Issues](https://img.shields.io/github/issues/Andrey-Zobnin?style=flat-square)](https://github.com/Andrey-Zobnin?tab=issues)  
-
-[![Pull Requests](https://img.shields.io/github/issues-pr/Andrey-Zobnin?style=flat-square)](https://github.com/Andrey-Zobnin?tab=pulls)  
-
----
-
-### 🔥 GitHub Streak Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Andrey-Zobnin&theme=dark)](https://git.io/streak-stats)
-
----
-### 📈 GitHub Activity Graph:
-
-![Andrey's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Andrey-Zobnin&theme=react-dark)
-
-
----
-
-
-## 🌟 GitHub Contributions  
-
-- **Open Source Projects:** Actively contribute to various open-source projects, enhancing my skills and collaborating with other developers.  
-
-- **Personal Projects:** Developed several personal projects, including:
-
-  - **[Labworks BMSTU](https://github.com/Andrey-Zobnin/fmsh_lab):** Разные мои лабораторные работы в BMSTU university
-  - **[ProjectsOfJson](https://github.com/Andrey-Zobnin/ProjectOfJson):** Утилита для сортировки Json файлов, проект имеет перспективы для облачного решения
-
-  - **[MLBanksStat](https://github.com/Andrey-Zobnin/MLbanks):** Задача проекта обучить модель машинного обучения для сбора и анализа тональностми отзывов на банки
-
-
----
-
 
 ## 🌐 Contact Me  
 
