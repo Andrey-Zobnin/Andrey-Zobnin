@@ -1,25 +1,21 @@
-# Andrey Zobnin
-
+# Andrey Zobnin  
 
 **Email:** [andy.zobnin@gmail.com](mailto:andy.zobnin@gmail.com)  
-
 **GitHub:** [Andrey-Zobnin](https://github.com/Andrey-Zobnin)  
-
 **Telegram:** [@andypyjson](https://t.me/andypyjson)  
 
----
+---  
 
+## 👨‍💻 About Me  
+I enjoy applying my skills in software development, data analysis, backend development, and system architecture.
 
-## 👨‍💻 About Me 
-I like apply my skills in software development, data analysis, backend development, architecturs.
-
----
+---  
 
 # 🛠️ Technical Skills  
 
 ## Programming Languages  
 - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20" alt="Python"/> **Python**](https://www.python.org/):
-  - Web apps (Flask), automation, data analysis (Pandas, NumPy)  
+  - Web applications (Flask), automation, data analysis (Pandas, NumPy)  
   - OOP, functional programming  
 
 - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="20" height="20" alt="C"/> **C**](https://en.wikipedia.org/wiki/C_(programming_language)):
@@ -69,11 +65,6 @@ OOP, structured programming, concurrency (Go)
   - Debugging in containers
   - Integration with CI/CD pipelines
 
-- **Best Practices**:
-  - Minimizing image sizes
-  - Proper layer caching
-  - Security scanning
-
 ### Version Control
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" height="20" alt="Git"/> **Git**](https://git-scm.com/):
 - Feature branch workflow
@@ -95,96 +86,50 @@ JSON/XML parsing, sorting utilities
 ---  
 
 ## Additional Information  
+- Active participation in open-source projects on GitHub  
+- Enthusiastic about learning and mastering new technologies  
 
-- Participation in open-source projects on GitHub.  
-- Willingness to learn and master new technologies.
-
----
-
+---  
 
 ## 🌟 GitHub Contributions  
 
-- **Open Source Projects:** Actively contribute to various open-source projects, enhancing my skills and collaborating with other developers.  
+- **Open Source Projects:** Actively contribute to various open-source projects, enhancing my skills and collaborating with other developers  
 
-- **Personal Projects:** Developed several personal projects, including:
+- **Personal Projects:**  
+  - **[BMSTU Lab Works](https://github.com/Andrey-Zobnin/fmsh_lab):** Various university laboratory works at BMSTU  
+  - **[JsonSort Utility](https://github.com/Andrey-Zobnin/ProjectOfJson):** JSON file sorting utility with potential for cloud implementation  
+  - **[Bank Sentiment Analysis](https://github.com/Andrey-Zobnin/MLbanks):** Machine learning model for analyzing bank review sentiment  
 
-  - **[Labworks BMSTU](https://github.com/Andrey-Zobnin/fmsh_lab):** Разные мои лабораторные работы в BMSTU university
-  - **[ProjectsOfJson](https://github.com/Andrey-Zobnin/ProjectOfJson):** Утилита для сортировки Json файлов, проект имеет перспективы для облачного решения
-
-  - **[MLBanksStat](https://github.com/Andrey-Zobnin/MLbanks):** Задача проекта обучить модель машинного обучения для сбора и анализа тональностми отзывов на банки
-
-
-
----
+---  
 
 ## 📊 GitHub Statistics  
 
-![Andrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrey-Zobnin&theme=cobalt&show_icons=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andrey-Zobnin&theme=cobalt&show_icons=true)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey-Zobnin&layout=compact)](https://github.com/Andrey-Zobnin)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Andrey-Zobnin&theme=cobalt)](https://git.io/streak-stats)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey-Zobnin&layout=compact)](https://github.com/Andrey-Zobnin)
+---  
 
-[![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Andrey-Zobnin&theme=cobalt)](https://git.io/streak-stats)  
+## 🎓 Education  
 
-[![Repo Count](https://badges.pufler.dev/repos/Andrey-Zobnin)](https://github.com/Andrey-Zobnin?tab=repositories)  
-
-[![Issues](https://img.shields.io/github/issues/Andrey-Zobnin?style=flat-square)](https://github.com/Andrey-Zobnin?tab=issues)  
-
-[![Pull Requests](https://img.shields.io/github/issues-pr/Andrey-Zobnin?style=flat-square)](https://github.com/Andrey-Zobnin?tab=pulls)  
-
----
-
-### 🔥 GitHub Streak Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Andrey-Zobnin&theme=dark)](https://git.io/streak-stats)
-
----
-### 📈 GitHub Activity Graph:
-
-![Andrey's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Andrey-Zobnin&theme=react-dark)
-
----
-
-## 🎓 Education
-
-### Moscow State Technical University (BMSTU) named N.E. Bauman  
-**Engineer**  
+### Moscow State Technical University (BMSTU)  
+**Engineer Degree**  
 2024 - 2026  
 
 ### Plekhanov Russian University of Economics  
-**Python Programming**  
+**Python Programming Certificate**  
 2022 - 2023 (145 academic hours)  
 
-### Plekhanov Russian University of Economics  
-**Unity Game Development**  
-February 10, 2024  
-
 ### Center for Pedagogical Excellence (CPM)  
-**Participation in the "Junior AI Coding Camp"**  
-August 10-18, 2024  
+**Junior AI Coding Camp Participant**  
+August 2024  
 
-### Moscow Technical University of Communications and Informatics (MTUCI)  
-**Project Activities**  
-2024 - 2024  
-
-
-
-### Data Analyst / Machine Learning Developer  
-**Center for Pedagogical Excellence (CPM) | Moscow | August 10-18, 2024**  
-
-- Conducting data analysis and developing machine learning models.  
-- Creating Telegram bots for process automation and user interaction.  
-
----
+---  
 
 ## 🌐 Contact Me  
-
 - **Email:** [andy.zobnin@gmail.com](mailto:andy.zobnin@gmail.com)  
-
 - **Telegram:** [@andypyjson](https://t.me/andypyjson)  
 
+---  
 
----
-### 🔥🔥🔥 Quote
-
-![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
----
+> "The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie
