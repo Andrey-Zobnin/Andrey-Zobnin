@@ -15,41 +15,43 @@ I like apply my skills in software development, data analysis, backend developme
 
 ---
 
-# 🛠️ Technical Skills
+# 🛠️ Technical Skills  
 
-## Programming Languages
+## Programming Languages  
+- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20" alt="Python"/> **Python**](https://www.python.org/):
+  - Web apps (Flask), automation, data analysis (Pandas, NumPy)  
+  - OOP, functional programming  
 
-### **Python**:
-- Web apps (Flask), automation, data analysis (Pandas, NumPy).  
-- OOP, functional programming.  
+- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="20" height="20" alt="C"/> **C**](https://en.wikipedia.org/wiki/C_(programming_language)):
+  - Pointers, dynamic memory, algorithms, data structures  
+  - Structured programming  
 
-### **C**:
-- Pointers, dynamic memory, algorithms, data structures.  
-- Structured programming.  
+- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="20" height="20" alt="Go"/> **Go**](https://go.dev/) (Basic):
+  - REST API development  
+  - gRPC (basic understanding)  
 
-### **Go (Basic)**:
-- REST API development.  
-- gRPC (basic understanding).  
+- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20" height="20" alt="Java"/> **Java**](https://www.java.com/) (Basic):
+  - Core syntax, OOP principles  
 
-### **Java (Basic)**:
-- Core syntax, OOP principles.  
+## Web Development  
+Flask (Python), REST APIs (Go)  
 
-## Web Development
-- Flask (Python), REST APIs (Go).  
+## Software Architecture  
+Microservices, gRPC (Go)  
 
-## Software Architecture
-- Microservices, gRPC (Go).  
+## Programming Paradigms  
+OOP, structured programming, concurrency (Go)  
 
-## Programming Paradigms
-- OOP, structured programming, concurrency (Go).  
+## Tools & Technologies  
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" height="20" alt="Git"/> Git](https://git-scm.com/)/GitHub, 
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20" height="20" alt="VSCode"/> VSCode](https://code.visualstudio.com/), 
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="20" height="20" alt="PyCharm"/> PyCharm](https://www.jetbrains.com/pycharm/), 
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="20" height="20" alt="Blender"/> Blender](https://www.blender.org/)  
 
-## Tools & Technologies
-- Git/GitHub, VSCode, PyCharm, Code::Blocks, Blender.  
+## Data Handling  
+JSON/XML parsing, sorting utilities  
 
-## Data Handling
-- JSON/XML parsing, sorting utilities.  
-
----
+---  
 
 ## Additional Information  
 
