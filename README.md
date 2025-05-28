@@ -42,11 +42,52 @@ Microservices, gRPC (Go)
 ## Programming Paradigms  
 OOP, structured programming, concurrency (Go)  
 
-## Tools & Technologies  
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" height="20" alt="Git"/> Git](https://git-scm.com/)/GitHub, 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20" height="20" alt="VSCode"/> VSCode](https://code.visualstudio.com/), 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="20" height="20" alt="PyCharm"/> PyCharm](https://www.jetbrains.com/pycharm/), 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="20" height="20" alt="Blender"/> Blender](https://www.blender.org/)  
+## 🛠️ Tools & Technologies
+
+### Development Environments
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="20" height="20" alt="JetBrains"/> **JetBrains Suite**](https://www.jetbrains.com/):
+- PyCharm (Python), IntelliJ IDEA (Java), GoLand (Go), CLion (C/C++)
+
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20" height="20" alt="VSCode"/> **VS Code**](https://code.visualstudio.com/):
+- Primary editor for scripts and configurations
+- Extensions for Python, Go, C, Java development
+
+### 🐳 Docker & Containerization
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="24" height="24" alt="Docker"/> **Docker**](https://www.docker.com/):
+- **Container Management**:
+  - Building optimized images with multi-stage builds
+  - Managing containers and images lifecycle
+  - Working with Docker Hub and private registries
+
+- **Docker Compose**:
+  - Orchestrating multi-service environments
+  - Environment variables management
+  - Network configuration between services
+
+- **Development Workflows**:
+  - Containerized development environments
+  - Debugging in containers
+  - Integration with CI/CD pipelines
+
+- **Best Practices**:
+  - Minimizing image sizes
+  - Proper layer caching
+  - Security scanning
+
+### Version Control
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" height="20" alt="Git"/> **Git**](https://git-scm.com/):
+- Feature branch workflow
+- Interactive rebase, cherry-picking
+- GitHub Actions for CI/CD
+
+### Databases
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20" height="20" alt="PostgreSQL"/> **PostgreSQL**](https://www.postgresql.org/):
+- Schema design and optimization
+- Basic administration tasks
+
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="20" height="20" alt="MongoDB"/> **MongoDB**](https://www.mongodb.com/):
+- Document-oriented data modeling
+- Aggregation framework
 
 ## Data Handling  
 JSON/XML parsing, sorting utilities  
