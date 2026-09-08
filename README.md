@@ -111,8 +111,7 @@ JSON/XML parsing, sorting utilities
 ---  
 
 ## 🎓 Education  
-
-### Moscow State Technical University (BMSTU)  
+### FMSH BMSTU Moscow State Technical University 
 **Engineer Degree**  
 2024 - 2026  
 
